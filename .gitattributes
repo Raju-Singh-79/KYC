@@ -1,0 +1,2 @@
+bitbucket-pipelines.yml merge=ours
+task-definition.json merge=ours
